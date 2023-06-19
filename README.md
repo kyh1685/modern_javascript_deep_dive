@@ -41,3 +41,5 @@
 - [42장 비동기 프로그래밍](./week21/42장_비동기_프로그래밍.md)
 - [43장 Ajax](./week21/43장_Ajax.md)
 - [44장 REST API](./week21/44장_REST_API.md)
+- [45장 프로미스](./week22/45장_프로미스.md)
+- [46장 제너레이터와 async/await](./week22/46장_제너레이터와_async_await.md)
