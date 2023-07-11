@@ -43,3 +43,6 @@
 - [44장 REST API](./week21/44장_REST_API.md)
 - [45장 프로미스](./week22/45장_프로미스.md)
 - [46장 제너레이터와 async/await](./week22/46장_제너레이터와_async_await.md)
+- [47장 에러 처리](./week24/47장_에러_처리.md)
+- [48장 모듈](week24/48장_모듈.md)
+- [49장 Webpack과 Babel](week24/49장_Webpack과_Babel.md)
